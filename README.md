@@ -43,6 +43,8 @@ Noch nicht dokumentiert.
 - Ein Suchfeld über der Liste, sobald mehr als zehn Prompts darin stehen.
 - Eine ordentliche Installationsanleitung.
 
+- Team: Fabian & Angelos
+
 ## Lizenz
 
 MIT, siehe [LICENSE](LICENSE).
