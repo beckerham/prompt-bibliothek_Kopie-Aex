@@ -1,6 +1,6 @@
 // Der Prompt, der auf der Startseite ganz oben hervorgehoben wird.
 // Hier steht die id eines Eintrags aus der Liste weiter unten.
-export const promptDesTages = "naechster-schritt";
+export const promptDesTages = "einwaende-vorwegnehmen";
 
 export type Prompt = {
   id: string;
